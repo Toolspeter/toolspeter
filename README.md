@@ -1,5 +1,8 @@
-## Hi there 👋
-<img alt="icon" align="center" width="100%" src="https://skillicons.dev/icons?i=kotlin,java,dart,swift,python,xd"/>
+## Hello! I am a software developer specializing in front-end development, with a focus on improving development efficiency and creating innovative features. Currently, I am learning backend development and working to enhance my skills and knowledge in this area to improve the overall quality of projects.
+
+In addition to my technical abilities, I am passionate about continuously learning new technologies and enjoy facing new challenges, contributing my experience and skills.
+<img alt="icon" align="center" width="100%" src="https://skillicons.dev/icons?i=github,apple,windows,linux,vscode,visualstudio,androidstudio,powershell"/>
+<img alt="icon" align="center" width="100%" src="https://skillicons.dev/icons?i=kotlin,gradle,swift,flutter,java,dart,flutter,python,c,cpp,git,arduino,sqlite,xd"/>
 <!--
 **Toolspeter/toolspeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
